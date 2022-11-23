@@ -1,0 +1,20 @@
+Hi
+
+I am sorry to hear that Firefox for iOS is crashing.  I hope that we can help resolve this for you.  Before following the steps below, please make sure that you have updated both your iOS device and Firefox for iOS to the latest versions available.
+
+As a first step, close down many of the tabs that you have open to as few as possible.  Does this help reduce the incidence of a crash?
+
+If this does not help, open the iOS Settings app, find Firefox and select Clear History and Website Data.  Does this help?
+
+Failing that, we will need to look into this in more detail with some logs from inside your copy of Firefox for iOS:
+
+# Launch Firefox.
+# Open Settings.
+# Scroll down to Version and tap it several times.
+# Scroll down and hit "Debug: copy log files to app container". This triggers the logs to be saved into the Documents folder.
+# Open the Files App on your iOS device and navigate to Fennec > Logs. You can see the different logs files here, which you can export using the share menu from Apple to a desktop computer.
+# Open the file and replace any email address with XXXXXXXXX - and keep a copy of this report.
+# Copy and past the full report into https://paste.mozilla.org/, setting the two options at the top to Plain Text and Expire in one week.
+# Select Paste Snippet on the right hand side, then copy and past the link into a reply to this thread.
+
+I hope that this helps.
