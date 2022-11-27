@@ -4,7 +4,7 @@ I am sorry to hear that Firefox for iOS is crashing.  I hope that we can help re
 
 As a first step, close down many of the tabs that you have open to as few as possible.  Does this help reduce the incidence of a crash?
 
-If this does not help, open the iOS Settings app, find Firefox and select Clear History and Website Data.  Does this help?
+If this does not help, open the iOS Settings app, select General then iPhone Storage.  Find Firefox and select Offload App.  Does this help?
 
 Failing that, we will need to look into this in more detail with some logs from inside your copy of Firefox for iOS:
 
