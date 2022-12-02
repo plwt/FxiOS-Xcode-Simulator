@@ -13,7 +13,6 @@ Failing that, we will need to look into this in more detail with some logs from 
 # Scroll down to Version and tap it several times.
 # Scroll down and hit "Debug: copy log files to app container". This triggers the logs to be saved into the Documents folder.
 # Open the Files App on your iOS device and navigate to Fennec > Logs. You can see the different logs files here, which you can export using the share menu from Apple to a desktop computer.
-# Open the file and replace any email address with XXXXXXXXX - and keep a copy of this report.
 # Copy and past the full report into https://paste.mozilla.org/, setting the two options at the top to Plain Text and Expire in one week.
 # Select Paste Snippet on the right hand side, then copy and past the link into a reply to this thread.
 
